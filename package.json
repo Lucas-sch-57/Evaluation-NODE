@@ -1,0 +1,16 @@
+{
+  "name": "evalutation-node",
+  "version": "1.0.0",
+  "description": "évaluation node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Schiltz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "uuidv4": "^6.2.13"
+  }
+}
